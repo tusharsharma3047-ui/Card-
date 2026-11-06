@@ -1,2 +1,4 @@
-# Card-
+# Card
 Card that changes automatically , made using JS
+
+Author Tushar Sharma
